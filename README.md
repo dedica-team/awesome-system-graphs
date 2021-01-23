@@ -3,12 +3,11 @@ A curated list of tools to map distributed system to graphs and display them
 
 ## Free / Open Source
 
-### Nivio
-
 
 
 | Name        | Description   | Requirements / Technology  | Focus / Data Source | License |
 | ------------|---------------|----------------------------|---------------------|---------|
+|![cartography](https://github.com/lyft/cartography/raw/master/docs/images/accountsandrds.png)<br />[cartography](https://github.com/lyft/cartography) | Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database. | Python, Neo4J | AWS, GCP, GSuite, Okta, GitHub | Apache 2 |
 |![cloudmapper](https://raw.githubusercontent.com/duo-labs/cloudmapper/main/docs/images/ideal_layout.png)<br />[cloudmapper](https://github.com/duo-labs/cloudmapper) |   CloudMapper helps you analyze your Amazon Web Services (AWS) environments. | Python | AWS | BSD 3 |
 |![kong-map](https://github.com/yesinteractive/kong-map/raw/main/screenshots/kongmap-home.png?raw=true)<br />[kong-map](https://github.com/yesinteractive/kong-map/) |   Kong-map is a free visualization tool which allows you to view and declaratively edit configurations of your Kong API Gateway Clusters, including Routes, Services, and Plugins/Policies. The tool is available for installation on Docker and Kubernetes only at this time. | Docker | Kong | AGPL |
 |![micromap](https://github.com/lukaszjanyga/micromap/raw/master/micromap.png?raw=true)<br />[micromap](https://github.com/lukaszjanyga/micromap) |   Micromap is a suite of command line tools to generate a visual representation of your application dependencies. | Go,GraphViz | custom, handwritten | EPL |
